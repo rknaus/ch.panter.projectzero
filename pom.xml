@@ -2,7 +2,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>ch.panter</groupId>
+	<groupId>ch.netgeek</groupId>
 	<artifactId>projectzero</artifactId>
 	<packaging>jar</packaging>
 
@@ -11,8 +11,8 @@
   <version>1.0.0</version>
 
   <scm>
-     <connection>scm:git:git://github.com/panter/ch.panter.projectzero.git</connection>
-     <url>scm:git:git://github.com/panter/ch.panter.projectzero.git</url>
+     <connection>scm:git:git://github.com/rknaus/ch.panter.projectzero.git</connection>
+     <url>scm:git:git://github.com/rknaus/ch.panter.projectzero.git</url>
   </scm>
 
 	<organization>
