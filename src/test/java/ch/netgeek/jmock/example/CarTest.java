@@ -36,11 +36,13 @@ public class CarTest {
         // define expectations
         context.checking(new Expectations() {{
             
-            one (tire).wearDown(kilometers * milliMeters);
+            // one (tire).wearDown(kilometers * milliMeters);
+            // between(0, 1).of (tire).wearDown(kilometers * milliMeters);
+            // exactly(4).of (tire).wearDown(kilometers * milliMeters);
             
         }});
         
-        car.drive(kilometers);
+        // car.drive(kilometers);
     }
     
 }
